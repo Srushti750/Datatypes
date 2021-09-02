@@ -1,0 +1,2 @@
+# Datatypes
+Introduction to datatypes
